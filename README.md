@@ -1,6 +1,8 @@
 # Pytorch를 활용한 UNet 모델링
 ## 2022.10.10 ~ 2022.10.30
 
+![MNIST]([https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png](https://upload.wikimedia.org/wikipedia/commons/d/dc/U-net-architecture.png))
+
 ## 소개
 
 이 저장소는 U-Net 아키텍처를 사용한 PyTorch CNN(Convolutional Neural Network) 구현 과정 및 결과물입니다.
