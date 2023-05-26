@@ -3,7 +3,7 @@
 
 ## 소개
 
-이 저장소는 U-Net 아키텍처를 사용한 PyTorch CNN(Convolutional Neural Network) 구현을 담고 있습니다.
+이 저장소는 U-Net 아키텍처를 사용한 PyTorch CNN(Convolutional Neural Network) 구현 과정 및 결과물입니다.
 
 ## 저장소 내용
 
