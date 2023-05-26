@@ -1,6 +1,6 @@
 # Pytorch를 활용한 UNet 모델링
 
-이 저장소는 U-Net 아키텍처를 사용한 PyTorch CNN(Convolutional Neural Network) 구현을 보여주는 것입니다. 이 저장소는 취업 준비를 위한 포트폴리오로 사용되며, 면접관분들께 좋은 인상을 주기 위해 각 구성 요소에 대한 상세한 설명이 포함되어 있습니다.
+이 저장소는 U-Net 아키텍처를 사용한 PyTorch CNN(Convolutional Neural Network) 구현을 담고 있습니다.
 
 ## 저장소 내용
 
