@@ -1,6 +1,6 @@
 # PyTorch CNN U-Net
 
-![U-Net Architecture](https://example.com/unet_architecture.png)
+![U-Net Architecture](https://cdn.example.com/unet_architecture.png)
 
 ## 소개
 
