@@ -35,7 +35,7 @@
 * `%load_ext tensorboard` TensorBoard를 활성화하는 라인입니다. 이를 통해 학습 과정 및 결과를 시각화했습니다.  
 * `tensorboard --logdir='./drive/MyDrive/002-pytorch-unet/log` TensorBoard를 실행하고 로그 디렉토리를 지정합니다. 이 디렉토리에는 학습과 관련된 이벤트 및 요약 데이터가 저장됩니다.  
 * `!python3 './drive/MyDrive/002-pytorch-unet/train.py' ...` 스크립트를 실행하여 U-Net 모델을 학습 및 테스트합니다. 다양한 인수와 함께 학습을 수행했습니다.  
-* `--batch_size` 를 2로 설정하고 `--mode` 가 'test'로 설정 후 테스트 모드를 수행헀습니다.
+* `--batch_size` 2, `--mode` 를 'test'로 설정 후 테스트 모드를 수행헀습니다.
 
 ### 7. `train.py`
 
