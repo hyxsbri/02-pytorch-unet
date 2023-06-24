@@ -5,7 +5,9 @@
 
 ## 소개
 
-이 저장소는 U-Net 아키텍처를 사용한 PyTorch CNN(Convolutional Neural Network) 구현 과정 및 결과물입니다.
+이 저장소는 ISBI (International Symposium on Biomedical Imaging) 2012 EM (Electron Microscopy) Segmentation Challenge 에서 제공한 데이터 셋을 활용했습니다.  
+이 대회에서는 전자 현미경 이미지에서 세포 및 세포 구성 요소를 정확하게 분할하는 알고리즘을 개발하고 세포와 조직의 미세 구조를 세분화하는 것이 목표입니다.  
+본 데이터 셋을 U-Net 아키텍처에 적용하기 위해 본 작업을 수행했으며, PyTorch CNN(Convolutional Neural Network) 구현 과정 및 결과물입니다.
 
 ## 저장소 내용
 
