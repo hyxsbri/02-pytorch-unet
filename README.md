@@ -1,5 +1,4 @@
 # Pytorch를 활용한 U-Net 모델링
-## 2022.10.10 ~ 2022.10.30
 
 ![U-net-architecture](https://upload.wikimedia.org/wikipedia/commons/d/dc/U-net-architecture.png)
 
