@@ -55,7 +55,7 @@
 
 * `train.py` 스크립트는 U-Net 모델을 훈련하는 데 사용됩니다. 데이터 로딩, 모델 초기화, 훈련 루프, 모델 파라미터 저장 등을 처리합니다.
 * Adam 옵티마이저와 이진 분류 문제에서 사용되는 손실 함수인 nn.BCEWithLogitsLoss 를 손실 함수로 사용했습니다.
-*  Binary Cross Entropy with Logits Loss 함수는 내부적으로 Sigmoid 활성화 함수와 Binary Cross Entropy Loss 를 종합합니다.
+*  Binary Cross Entropy with Logits Loss 함수는 내부적으로 Sigmoid 활성화 함수와 Binary Cross Entropy Loss 를 종합하여 이진 분류를 위한 손실 함수로 적합합니다.
 
 
 ### 8. `util.py`
