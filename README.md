@@ -6,7 +6,7 @@
 
 * ISBI (International Symposium on Biomedical Imaging) 2012 EM (Electron Microscopy) Segmentation Challenge 에서 제공한 데이터 셋을 활용했습니다.  
 * 프로젝트 목표: 전자 현미경 이미지에서 세포 및 세포 구성 요소를 정확하게 분할하는 알고리즘을 개발, 세포와 조직의 미세 구조 세분화
-* 본 저장소는 데이터 셋을 U-Net 아키텍처에 적용하기 위한 구현 과정 및 결과물이 포함돼있습니다.
+* 본 저장소는 데이터 셋을 U-Net 아키텍처에 적용하기 위한 구현 과정 및 결과물이 포함돼 있습니다.
 
 ## 저장소 내용
 
